@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   output: 'export',
   trailingSlash: true, // Ensures proper static file paths
-  assetPrefix: '/<repository-name>/',
+  assetPrefix: '/hilink_camps/',
 };
 
 export default nextConfig;
